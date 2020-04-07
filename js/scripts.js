@@ -1,0 +1,1 @@
+alert('Welcome to the html-wp-theme-dev-boilerplate');
